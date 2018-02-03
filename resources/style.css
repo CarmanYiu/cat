@@ -10,3 +10,9 @@ h2 {
 #bahia h3 {
   color: SeaGreen;
 }
+
+.bahia_bg_img {
+  background-image: url("./image/bahia.jpeg");
+  width: 1200px;
+  height: 1200px;
+}
